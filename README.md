@@ -6,7 +6,8 @@
 `Software Dev`
 </div>
 <p align="center">
-I'm a software developer from Chicago, I specialize in Javascript, Node and React. I'm currently learning Nuxt3.
+I'm a software developer from Chicago, I specialize in Javascript, Node and Nuxt
+Amazing communication skills too!
 </p>
 <p align="center"> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
