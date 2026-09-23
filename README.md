@@ -2,7 +2,6 @@
 
 # 🖥️Raph Santana
 
-## (Raphy, Sunny)
 `Software Dev`
 </div>
 <p align="center">
